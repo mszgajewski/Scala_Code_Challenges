@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/CharacterGame.scala
+  visible: true
+  text: "object CharacterGame extends App {\n\n  val triple = (\n    scala.io.StdIn.readChar(),\n\
+    \    scala.io.StdIn.readInt(),\n    scala.io.StdIn.???\n  )\n  val expected =\
+    \ (\n    ???    \n    ???.toInt,\n    ???.isUpper\n  )\n  println(triple == expected)\
+    \        \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9668
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9668">JetBrains
+    Academy</a></html>
+  time: Fri, 27 Nov 2020 09:45:50 UTC
+record: -1

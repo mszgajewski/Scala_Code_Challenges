@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala_Code_Challenges.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala_Code_Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Character game/Scala_Code_Challenges.Problems-Character_game.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Character game/Scala_Code_Challenges.Problems-Character_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Character game/Scala_Code_Challenges.Problems-Character_game.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Character game/Scala_Code_Challenges.Problems-Character_game.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Character game/Scala_Code_Challenges.Problems-Character_game.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Character game/Scala_Code_Challenges.Problems-Character_game.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fibonacci sequence/Scala_Code_Challenges.Problems-Fibonacci_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fibonacci sequence/Scala_Code_Challenges.Problems-Fibonacci_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fibonacci sequence/Scala_Code_Challenges.Problems-Fibonacci_sequence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fibonacci sequence/Scala_Code_Challenges.Problems-Fibonacci_sequence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fibonacci sequence/Scala_Code_Challenges.Problems-Fibonacci_sequence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fibonacci sequence/Scala_Code_Challenges.Problems-Fibonacci_sequence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Value printer/Scala_Code_Challenges.Problems-Value_printer.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Value printer/Scala_Code_Challenges.Problems-Value_printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Value printer/Scala_Code_Challenges.Problems-Value_printer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Value printer/Scala_Code_Challenges.Problems-Value_printer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Value printer/Scala_Code_Challenges.Problems-Value_printer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Value printer/Scala_Code_Challenges.Problems-Value_printer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Zero sum of literals/Scala_Code_Challenges.Problems-Zero_sum_of_literals.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Zero sum of literals/Scala_Code_Challenges.Problems-Zero_sum_of_literals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Zero sum of literals/Scala_Code_Challenges.Problems-Zero_sum_of_literals.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Zero sum of literals/Scala_Code_Challenges.Problems-Zero_sum_of_literals.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Zero sum of literals/Scala_Code_Challenges.Problems-Zero_sum_of_literals.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Zero sum of literals/Scala_Code_Challenges.Problems-Zero_sum_of_literals.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Scala_Code_Challenges.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Scala_Code_Challenges.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Scala_Code_Challenges.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Scala_Code_Challenges.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Scala_Code_Challenges.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Scala_Code_Challenges.util.test.iml" />
+    </modules>
+  </component>
+</project>

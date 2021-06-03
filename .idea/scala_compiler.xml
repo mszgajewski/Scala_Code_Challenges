@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Gradle 1" modules="Scala_Code_Challenges.Problems-Character_game.main,Scala_Code_Challenges.Problems-Character_game.test,Scala_Code_Challenges.Problems-Fibonacci_sequence.main,Scala_Code_Challenges.Problems-Fibonacci_sequence.test,Scala_Code_Challenges.Problems-Value_printer.main,Scala_Code_Challenges.Problems-Value_printer.test,Scala_Code_Challenges.Problems-Zero_sum_of_literals.main,Scala_Code_Challenges.Problems-Zero_sum_of_literals.test,Scala_Code_Challenges.util.main,Scala_Code_Challenges.util.test">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

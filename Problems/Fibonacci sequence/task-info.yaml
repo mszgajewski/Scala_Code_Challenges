@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Fibonacci.scala
+  visible: true
+  text: |-
+    object Fibonacci extends App {
+      val a = 0
+      val b = 1
+      def sum(a: Int, b: Int): Int = ???
+
+      println(a)
+      println(b)
+      println(sum(a, b))
+      println(sum(???))
+      println(sum(sum(???), ???))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9320
+status: Unchecked
+record: -1

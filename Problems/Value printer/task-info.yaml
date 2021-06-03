@@ -1,0 +1,9 @@
+type: code
+files:
+- name: src/ValuesPrinter.scala
+  visible: true
+  text: "object ValuesPrinter extends App {\n  ???  \n  println(a + b + c + d)\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9313
+status: Solved
+record: -1
